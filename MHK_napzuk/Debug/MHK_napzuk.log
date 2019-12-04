@@ -1,0 +1,6 @@
+﻿  Source.cpp
+c:\users\ht17a031\desktop\mhk_napzuk\mhk_napzuk\source.cpp(259): warning C4553: '==': 式の結果が使用されていません。'=' を意図していますか?
+c:\users\ht17a031\desktop\mhk_napzuk\mhk_napzuk\source.cpp(260): warning C4553: '==': 式の結果が使用されていません。'=' を意図していますか?
+c:\users\ht17a031\desktop\mhk_napzuk\mhk_napzuk\source.cpp(261): warning C4553: '==': 式の結果が使用されていません。'=' を意図していますか?
+c:\users\ht17a031\desktop\mhk_napzuk\mhk_napzuk\source.cpp(85): warning C4101: 'c': ローカル変数は 1 度も使われていません。
+  MHK_napzuk.vcxproj -> C:\Users\ht17a031\Desktop\MHK_napzuk\Debug\MHK_napzuk.exe
